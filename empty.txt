@@ -3,8 +3,13 @@ First line by Maurice
 YASSINE 
 
 
+<<<<<<< HEAD
 Hi hi
 
+=======
+
+W Szczebrzeszynie chrząszcz brzmi w trzcinie.
+>>>>>>> 120b3183b67b312ca9761a2eb501771f15a75da9
 
 
 
