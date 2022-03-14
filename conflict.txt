@@ -1,7 +1,5 @@
 A
-<<<<<<< HEAD
 M
-=======
 Z
->>>>>>> d2856a1ce01b682f8a06ef9dc2e5b0a78e5374fe
+A X
 A
